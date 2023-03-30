@@ -1,0 +1,267 @@
+body {
+    font-family: "Poppins", sans-serif;
+    margin: 0;
+    color: #777;
+
+}
+
+.nav-bar {
+    border-bottom: 2px solid #EBB02D;
+}
+
+.nav-email {
+    float: left;
+    margin-left: 20px;
+    padding-left: 20px;
+    position: relative;
+    left: 400px;
+}
+.nav-email > a {
+ color: black;
+}
+
+.nav-logo {
+    float: left;
+    margin-left: 20px;
+
+}
+
+.listar {
+    list-style-type: none;
+}
+
+.clear {
+    clear: both;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.menu {
+    float: left;
+    margin-left: 20px;
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 10px;
+}
+
+.menu>a {
+
+    color: #ff6701;
+
+}
+
+.produto {
+
+    text-align: center;
+}
+
+.produto>h2 {
+    color: #ba3606;
+    margin-top: 10px;
+    margin-bottom: 0;
+}
+
+.produto>p {
+    margin: 0;
+}
+
+.capa {
+
+    border-top: 1px solid #ff6701;
+}
+
+.imagem-capa {
+    width: 1024px;
+    background: blue;
+}
+
+.imagem-copo {
+    float: left;
+    margin-left: 10px;
+    position: relative;
+    left: 100px;
+}
+
+.imagem-copo>a {
+    color: #777;
+}
+
+.botao {
+    border: 1px solid #f7681e;
+    border-radius: 10px;
+    background: #f7681e;
+    width: 120px;
+    height: 28px;
+    position: relative;
+    left: 50px;
+    top: 10px;
+
+}
+
+.botao>a {
+    margin: 0 auto;
+    font-weight: bold;
+    padding: 10px;
+    font-size: 12px;
+    color: black;
+
+}
+
+.faixa {
+    background: #f7681e;
+    height: 115px;
+    margin-top: 40px;
+}
+
+.conteudo>h1 {
+    text-align: center;
+    color: #ffff;
+    margin: 0 auto;
+    padding: 10px;
+    position: relative;
+    top: 25px;
+}
+
+
+.botao-produtos>a {
+    border: 1px solid #ffff;
+    color: black;
+    font-weight: bold;
+    border-radius: 10px;
+    padding: 15px;
+    background: #f7681e;
+    width: 120px;
+    height: 28px;
+    position: relative;
+    left: 950px;
+    top: -10px;
+}
+
+
+
+.destaque>h2 {
+    text-align: center;
+    color: #ba3606;
+
+}
+
+.destaque>p {
+    text-align: center;
+    margin: 0;
+
+}
+
+.copo {
+    float: left;
+    margin-left: 20px;
+    margin-bottom: 10px;
+    position: relative;
+
+    box-shadow: -8px 11px 5px 0px rgba(0, 0, 0, 0.75);
+
+}
+
+.copo1  {
+    border: 2px solid #777;
+    border-radius: 2px;
+}
+
+.copo1 > img{
+    opacity: 0.3;
+    -moz-opacity: 0.3;
+    Filter: Alpha(opacity=30);
+}
+.copo1:hover > img{
+    opacity: 1.0;
+  -moz-opacity:1.0;
+  Filter: Alpha(opacity=100);
+}
+
+.copo1>h3 {
+    text-align: center;
+}
+
+.copo1>p {
+    text-align: center;
+}
+
+.sub h3 {
+    margin: 0;
+}
+
+.sub p {
+    margin: 0;
+    margin-top: 12px;
+}
+
+.selo {
+    margin-top: 80px;
+}
+
+.imagem-selo {
+    float: left;
+    margin-left: 150px;
+    position: relative;
+
+}
+
+.texto {
+
+    width: 200px;
+    position: relative;
+    right: 40px;
+}
+
+.texto>h2 {
+    font-size: 14px;
+    font-weight: bold;
+    text-align: center;
+    color: black;
+}
+
+.texto>p {
+    font-size: 16px;
+    text-align: center;
+}
+
+.rodape {
+    margin: 0 auto;
+    margin-top: 30px;
+    text-align: center;
+}
+
+.criacao {
+
+    background: #EDF2F4;
+}
+
+.criacao>p {
+    color: black;
+    text-align: center;
+}
+
+
+
+
+footer {
+   border-top: 2px solid;
+    border-color: #f7681e;
+    height: 300px;
+
+}
+
+a {
+    text-decoration: none;
+
+
+}
+
+input {
+    position: relative;
+    bottom: -20px;
+    width: 600px;
+    height: 40px;
+}
